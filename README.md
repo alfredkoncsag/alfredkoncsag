@@ -4,7 +4,7 @@
 
 <h3 align="center">
   My name is Alfred and I have been working with web development since 2015. <br /><br />
-  I have experience with a wide range of languages and tools, like PHP, Laravel, Javascript, Vue and many more.
+  I have experience with wide range of languages and tools, like PHP, Laravel, Javascript, Vue and many more.
 </h3>
 
 ---
